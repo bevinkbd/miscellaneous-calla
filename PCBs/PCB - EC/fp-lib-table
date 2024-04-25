@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bevin")(type "KiCad")(uri "D:/Repositories/PCB-Library/libraries/bevin.pretty")(options "")(descr ""))
+  (lib (name "cipulot_parts")(type "KiCad")(uri "D:/Repositories/Cipulot/cipulot_kicad_parts-main/cipulot_parts.pretty")(options "")(descr ""))
+  (lib (name "art")(type "KiCad")(uri "D:/Repositories/bevin_pcb_library/Footprints/art.pretty")(options "")(descr ""))
+  (lib (name "cip")(type "KiCad")(uri "D:/Repositories/PCB-Library/cipcip.pretty")(options "")(descr ""))
+)
