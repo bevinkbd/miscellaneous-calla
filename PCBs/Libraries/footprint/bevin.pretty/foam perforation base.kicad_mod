@@ -1,0 +1,14 @@
+(footprint "foam perforation base" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0.01 4.36 unlocked) (layer "Dwgs.User") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 638ed729-d0e0-4682-a403-45220d5236e7)
+  )
+  (fp_text value "foam perforation base" (at 8.7 8.7 90 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d903fe32-0f9a-457a-be8a-eee5993c9ed1)
+  )
+  (fp_line (start -2.7 0) (end 2.7 0)
+    (stroke (width 0.12) (type default)) (layer "Edge.Cuts") (tstamp b5157dbf-bdf3-493e-b70c-64c613eae067))
+)
