@@ -15,14 +15,14 @@
 8. Disassembly finished!
 ## EC Assembly Preparation
 There will be permanent modifications done to 6 Topre housings. The purpose of these cuts is to provide clearance for the gummy O-ring mounting tab used in MX builds.
-![topcase-plate-housings assembly](https://github.com/bevinkbd/miscellaneous-calla\misc\images\EC1.png)
+![topcase-plate-housings assembly](../../misc/images/EC1.png)
 -   Gather two housings and cut along the indicated red line using a scissor or flush cutter.
     -   Discard the corner when finished.
     -   Ensure that the cut is clean and the bottom of the housings remains flush.
-    -   Repeat 2 more times for a total of 6 modified housings.
+    -   Repeat 2 additional times for a total of 6 modified housings.
 ## EC PCB-Plate Assembly
 1. Place the top case, flower side down, on a flat surface, preferably elevated along the sides
-2.![topcase-plate-housings assembly](https://github.com/bevinkbd/miscellaneous-calla\misc\images\EC2.png)
+2.![topcase-plate-housings assembly](../../misc/images/EC2.png)
 3. With the plate screwed into the top part of the case,  snap Topre housings, 2u housings, and spacebar stabilizers into place on the plate. Snap stems into place if needed here as well
     -   Each pair of the modified housings are marked in red. Make sure that your modified housing matches the alignment in the provided photo.
 4. Carefully place domes into housings.
