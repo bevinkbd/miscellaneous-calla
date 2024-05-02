@@ -1,0 +1,8 @@
+Case:
+92125A127, M3 x 0.5 mm Thread, 4 mm Long (6 req.)
+91292A009, M2.5 x 0.45 mm Thread, 5 mm Long (7 req.)
+91292A111 (90348A004 black ver.), M3 x 0.5 mm Thread, 6 mm Long (8 req)
+91460A021, M2 x 0.4 mm Thread, 3 mm Long, 3.8 mm Head Diameter (4 req.)
+
+Electrocapacitive Build:
+M2 x 0.4 mm Thread, 8 mm Long (43 req.)
