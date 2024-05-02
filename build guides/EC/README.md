@@ -46,14 +46,14 @@ There will be permanent modifications done to 6 Topre housings. The purpose of t
 12. Assembly finished!
 ## Flashing
 1. Attach JST wire between PCB and daughterboard
-2. Connect daughterboard to PC
-3. Locate the push-button on the bottom side of the PCB
+3. Locate the two exposed pins on the back of the PCB
 4. Open [QMK Toolbox](https://www.google.com/search?q=qmk+toolbox&rlz=1C1CHBF_enUS1049US1049&oq=qmk+toolbox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE2MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 5. Select appropriate firmware
 6. Enable Auto-Flash
-7. Depress the push-button
-8. Allow the flashing process to finish
-9. Test keys
+7. Short the two pins
+8. Plug the keyboard into the PC
+9. Allow the flashing process to finish
+10. Test keys
 ## VIA Calibration
 1. Open [VIA](https://www.caniusevia.com/)
 2. Plug in keyboard
