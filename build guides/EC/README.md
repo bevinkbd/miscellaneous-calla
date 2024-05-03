@@ -28,7 +28,7 @@ There will be permanent modifications done to 6 Topre housings. The purpose of t
 4. Carefully place domes into housings.
     -   Due to the reduced spacing, it may be necessary to slightly trim the edges of the domes to prevent interference with surrounding strips.
 5. Carefully add the sensing springs onto the dome
-6. **CONNECT THE JST WIRE TO THE EC PCB AT THIS STEP**
+6. **CONNECT THE JST WIRE TO THE EC PCB AT THIS STEP AND THREAD IT THROUGH THE OPENING IN FRONT OF THE JST CONNECTOR**
 7. Slowly place the EC PCB on the plate-housings-domes-springs assembly, such that the circle silkscreens are aligned to the springs
 8. Tighten the assembly together using provided 8mm M2 flat head screws
 	- Order isn't important but I prefer to start from the outside and then follow a clockwise pattern
