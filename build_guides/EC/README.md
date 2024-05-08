@@ -57,7 +57,7 @@ There will be permanent modifications done to 6 Topre housings. The purpose of t
 ## VIA Calibration
 1. Open [VIA](https://www.caniusevia.com/)
 2. Plug in keyboard
-3. Load [ecalla.json](firmware/ECVIADraftDefinition/ecalla.json)
+3. Load [ecalla.json](firmware/ec_via_definition/ecalla.json)
 4. Open Configure/EC Tools
 5. Calibrate or modify levels to your hearts content
 - viewing output requires having QMK toolbox open on the side
