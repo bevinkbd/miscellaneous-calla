@@ -22,15 +22,15 @@ There will be permanent modifications done to 6 Topre housings. The purpose of t
     -   Repeat 2 additional times for a total of 6 modified housings.
 ## EC PCB-Plate Assembly
 1. Place the top case, flower side down, on a flat surface, preferably elevated along the sides
-2.![topcase-plate-housings assembly](../../misc/images/EC2.png)
-3. With the plate screwed into the top part of the case,  snap Topre housings, 2u housings, and spacebar stabilizers into place on the plate. Snap stems into place if needed here as well
+![topcase-plate-housings assembly](../../misc/images/EC2.png)
+2. With the plate screwed into the top part of the case,  snap Topre housings, 2u housings, and spacebar stabilizers into place on the plate. Snap stems into place if needed here as well
     -   Each pair of the modified housings are marked in red. Make sure that your modified housing matches the alignment in the provided photo.
-4. Carefully place domes into housings.
+3. Carefully place domes into housings.
     -   Due to the reduced spacing, it may be necessary to slightly trim the edges of the domes to prevent interference with surrounding strips.
-5. Carefully add the sensing springs onto the dome
-6. **CONNECT THE JST WIRE TO THE EC PCB AT THIS STEP AND THREAD IT THROUGH THE OPENING IN FRONT OF THE JST CONNECTOR**
-7. Slowly place the EC PCB on the plate-housings-domes-springs assembly, such that the circle silkscreens are aligned to the springs
-8. Tighten the assembly together using provided 8mm M2 flat head screws
+4. Carefully add the sensing springs onto the dome
+5. **CONNECT THE JST WIRE TO THE EC PCB AT THIS STEP AND THREAD IT THROUGH THE OPENING IN FRONT OF THE JST CONNECTOR**
+6. Slowly place the EC PCB on the plate-housings-domes-springs assembly, such that the circle silkscreens are aligned to the springs
+7. Tighten the assembly together using provided 8mm M2 flat head screws
 	- Order isn't important but I prefer to start from the outside and then follow a clockwise pattern
 ## Case Assembly
 1. Set the bottom case on a flat surface
@@ -47,6 +47,7 @@ There will be permanent modifications done to 6 Topre housings. The purpose of t
 ## Flashing
 1. Attach JST wire between PCB and daughterboard
 3. Locate the two exposed pins on the back of the PCB
+![reset pins](../../misc/images/Reset.png)
 4. Open [QMK Toolbox](https://www.google.com/search?q=qmk+toolbox&rlz=1C1CHBF_enUS1049US1049&oq=qmk+toolbox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE2MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 5. Select appropriate firmware
 6. Enable Auto-Flash
