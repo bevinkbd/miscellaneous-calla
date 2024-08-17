@@ -47,7 +47,7 @@ There will be permanent modifications done to 6 Topre housings. The purpose of t
 ## Flashing
 1. Attach JST wire between PCB and daughterboard
 3. Locate the two exposed pins on the back of the PCB
-![reset pins](../../misc/images/Reset.png)
+![reset pins](../../misc/images/Reset.PNG)
 4. Open [QMK Toolbox](https://www.google.com/search?q=qmk+toolbox&rlz=1C1CHBF_enUS1049US1049&oq=qmk+toolbox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE2MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 5. Select appropriate firmware
 6. Enable Auto-Flash
